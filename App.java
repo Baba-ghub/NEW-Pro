@@ -3,7 +3,6 @@ public class App{
 		system.out.println("Good Morinig");
 		system.out.println("Good Night");
 		system.out.println("New line -Added");
-		system.out.println("New two line -2");
 }
 
 }
